@@ -7,7 +7,7 @@
    -  Python
    -  Pandas & NumPy
    -  Scikit-learn (ML models)
-   -  Matplotlib / Seaborn (optional visualizations) 
+   -  Matplotlib / Seaborn 
 
 ## 📈 Key Steps
    -  Load and clean the heart disease dataset
